@@ -1,0 +1,26 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": " HOSTMAN :)",
+    "body": "Este es el contenido del primer post. Aquí puedes escribir cualquier cosa que desees."
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Segundo post",
+    "body": "Este es el contenido del segundo post. Más información interesante aquí."
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "Tercer post",
+    "body": "Contenido del tercer post. Añade detalles y descripciones aquí."
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "Cuarto post",
+    "body": "Este es el contenido del cuarto post. Puedes incluir cualquier texto que necesites."
+  }
+]
