@@ -5,8 +5,8 @@
     "title": "Habitación 1",
     "body": "Habitación doble en planta primera, sin terraza.",
     "price": 75.00,
-    "dispo": "",
-    "images": ""
+    "dispo": true,
+    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
   },
   {
     "userId": 1,
@@ -14,8 +14,8 @@
     "title": "Habitación 2",
     "body": "Habitación doble en planta primera, sin terraza.",
     "price": 75.00,
-    "dispo": "",
-    "images": ""
+    "dispo": true,
+    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
   },
   {
     "userId": 1,
@@ -23,8 +23,8 @@
     "title": "Habitación 3",
     "body": "Habitación doble en planta primera, sin terraza.",
     "price": 75.00,
-    "dispo": "",
-    "images": ""
+    "dispo": true,
+    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
   },
   {
     "userId": 1,
@@ -32,8 +32,8 @@
     "title": "Habitación 4",
     "body": "Habitación doble en planta primera, sin terraza.",
     "price": 75.00,
-    "dispo": "",
-    "images": ""
+    "dispo": true,
+    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
   },
   {
     "userId": 1,
@@ -41,8 +41,8 @@
     "title": "Habitación 5",
     "body": "Habitación doble en planta primera, sin terraza.",
     "price": 75.00,
-    "dispo": "",
-    "images": ""
+    "dispo": true,
+    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
   },
   {
     "userId": 1,
@@ -50,8 +50,8 @@
     "title": "Habitación 6",
     "body": "Habitación doble en planta primera, sin terraza.",
     "price": 75.00,
-    "dispo": "",
-    "images": ""
+    "dispo": true,
+    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
   },
   {
     "userId": 1,
@@ -59,8 +59,8 @@
     "title": "Habitación 7",
     "body": "Habitación doble en planta primera, sin terraza.",
     "price": 75.00,
-    "dispo": "",
-    "images": ""
+    "dispo": true,
+    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
   },
   {
     "userId": 1,
@@ -68,8 +68,8 @@
     "title": "Habitación 8",
     "body": "Habitación triple en planta primera, sin terraza.",
     "price": 75.00,
-    "dispo": "",
-    "images": ""
+    "dispo": true,
+    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
   },
   {
     "userId": 1,
@@ -77,8 +77,8 @@
     "title": "Habitación 9",
     "body": "Habitación triple en planta primera, sin terraza.",
     "price": 75.00,
-    "dispo": "",
-    "images": ""
+    "dispo": true,
+    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
   },
   {
     "userId": 1,
@@ -86,8 +86,8 @@
     "title": "Habitación 10",
     "body": "Habitación triple en planta primera, sin terraza.",
     "price": 75.00,
-    "dispo": "",
-    "images": ""
+    "dispo": true,
+    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
   },
   {
     "userId": 1,
@@ -95,8 +95,8 @@
     "title": "Habitación 11",
     "body": "Habitación doble en planta baja, con terraza.",
     "price": 75.00,
-    "dispo": "",
-    "images": ""
+    "dispo": true,
+    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
   },
   {
     "userId": 1,
@@ -104,8 +104,8 @@
     "title": "Habitación 12",
     "body": "Habitación doble en planta baja, con terraza.",
     "price": 75.00,
-    "dispo": "",
-    "images": ""
+    "dispo": true,
+    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
   },
   {
     "userId": 1,
@@ -113,8 +113,8 @@
     "title": "Habitación 13",
     "body": "Habitación doble en planta baja, con terraza.",
     "price": 75.00,
-    "dispo": "",
-    "images": ""
+    "dispo": true,
+    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
   },
   {
     "userId": 1,
@@ -122,8 +122,8 @@
     "title": "Habitación 14",
     "body": "Habitación doble en planta baja, con terraza.",
     "price": 75.00,
-    "dispo": "",
-    "images": ""
+    "dispo": true,
+    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
   },
   {
     "userId": 1,
@@ -131,8 +131,8 @@
     "title": "Habitación 15",
     "body": "Habitación doble en planta baja, con terraza.",
     "price": 75.00,
-    "dispo": "",
-    "images": ""
+    "dispo": true,
+    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
   },
   {
     "userId": 1,
@@ -140,8 +140,8 @@
     "title": "Habitación 16",
     "body": "Habitación doble en planta baja, con terraza.",
     "price": 75.00,
-    "dispo": "",
-    "images": ""
+    "dispo": true,
+    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
   },
   {
     "userId": 1,
@@ -149,8 +149,8 @@
     "title": "Habitación 17",
     "body": "Habitación doble en planta baja, con terraza.",
     "price": 75.00,
-    "dispo": "",
-    "images": ""
+    "dispo": true,
+    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
   },
   {
     "userId": 1,
@@ -158,8 +158,8 @@
     "title": "Habitación 18",
     "body": "Habitación doble en planta baja, con terraza.",
     "price": 75.00,
-    "dispo": "",
-    "images": ""
+    "dispo": true,
+    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
   },
   {
     "userId": 1,
@@ -167,8 +167,8 @@
     "title": "Habitación 19",
     "body": "Habitación doble en planta baja, con terraza.",
     "price": 75.00,
-    "dispo": "",
-    "images": ""
+    "dispo": true,
+    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
   },
   {
     "userId": 1,
@@ -176,8 +176,8 @@
     "title": "Habitación 20",
     "body": "Habitación doble en planta baja, con terraza.",
     "price": 75.00,
-    "dispo": "",
-    "images": ""
+    "dispo": true,
+    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
   },
   {
     "userId": 1,
@@ -185,8 +185,8 @@
     "title": "Habitación 21",
     "body": "Habitación doble en planta baja, con terraza.",
     "price": 75.00,
-    "dispo": "",
-    "images": ""
+    "dispo": true,
+    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
   },
   {
     "userId": 1,
@@ -194,8 +194,8 @@
     "title": "Habitación 22",
     "body": "Habitación doble en planta baja, con terraza.",
     "price": 75.00,
-    "dispo": "",
-    "images": ""
+    "dispo": true,
+    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
   },
   {
     "userId": 1,
@@ -203,8 +203,8 @@
     "title": "Habitación 23",
     "body": "Habitación doble en planta baja, con terraza.",
     "price": 75.00,
-    "dispo": "",
-    "images": ""
+    "dispo": true,
+    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
   },
   {
     "userId": 1,
@@ -212,7 +212,7 @@
     "title": "Habitación 24",
     "body": "Habitación especial en planta baja, con terraza.",
     "price": 75.00,
-    "dispo": "",
-    "images": ""
+    "dispo": true,
+    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
   }
 ]
