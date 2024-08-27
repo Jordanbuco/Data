@@ -1,0 +1,22 @@
+{
+  "nombre": "Hostal Manolo",
+  "habitaciones": [
+    {
+      "nombre": "Habitación 1 Doble",
+      "precio": 80,
+      "descripcion": "Habitación Doble en planta primera sin terraza",
+      "terraza": false,
+      "fotoURL": "https://www.primavera-hostel.com/wp-content/uploads/2020/07/MG_5021.jpg",
+      "disponibilidad": false
+    },
+    {
+      "nombre": "Habitación 21 Doble",
+      "precio": 100,
+      "descripcion": "Habitación Doble en planta baja con terraza",
+      "terraza": true,
+      "fotoURL": "https://www.primavera-hostel.com/wp-content/uploads/2020/07/MG_5021.jpg",
+      "disponibilidad": true
+    }
+  ]
+}
+
