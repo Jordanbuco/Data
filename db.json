@@ -1,6 +1,20 @@
-{
-  "userId": <Número>,    // ID del usuario al que pertenece este objeto.
-  "id": <Número>,        // ID único del objeto.
-  "title": <Texto>,      // Título del objeto, representado por una cadena de texto.
-  "body": <Texto>        // Cuerpo del objeto, representado por una cadena de texto.
-}
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Nuevo descubrimiento en Marte",
+    "body": "Un equipo de científicos ha encontrado indicios de agua en el subsuelo de Marte. Este hallazgo podría ser clave para futuras misiones de exploración y asentamientos humanos en el planeta rojo."
+  },
+  {
+    "userId": 2,
+    "id": 2,
+    "title": "Avances en la cura del Alzheimer",
+    "body": "Investigadores han desarrollado una nueva terapia que podría detener el avance del Alzheimer en pacientes en las primeras etapas de la enfermedad. Los ensayos clínicos han mostrado resultados prometedores."
+  },
+  {
+    "userId": 3,
+    "id": 3,
+    "title": "Descubren una nueva especie de mamífero",
+    "body": "Exploradores en el Amazonas han descubierto una nueva especie de mamífero que habita en la copa de los árboles. Este hallazgo destaca la riqueza aún desconocida de la biodiversidad en la región."
+  }
+]
