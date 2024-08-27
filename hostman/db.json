@@ -5,7 +5,7 @@
     "title": " Habitación 1",
     "body": "Habitación doble en planta primera, en esa planta no tiene ninguna habitación terraza, pero si tienen mejores vistas.",
     "price": "80",
-    "dispo": bool,
+    "dispo": true,
     "images": "https://www.primavera-hostel.com/wp-content/uploads/2020/07/MG_5021.jpg"
   },
   {
@@ -14,7 +14,7 @@
     "title": "Habitación 2",
     "body": "Habitación doble en planta primera, en esa planta no tiene ninguna habitación terraza, pero si tienen mejores vistas.",
     "price": "80",
-    "dispo": bool,
+    "dispo": true,
     "images": "https://www.primavera-hostel.com/wp-content/uploads/2020/07/MG_5021.jpg"
   },
   {
@@ -23,7 +23,7 @@
     "title": "Habitación 12",
     "body": "Habitación doble en planta primera, en esa planta todas las habitaciones disponen de terraza.",
     "price": "80",
-    "dispo": bool,
+    "dispo": false,
     "images": "https://www.primavera-hostel.com/wp-content/uploads/2020/07/MG_5021.jpg"
   },
   {
@@ -32,7 +32,7 @@
     "title": "Habitación 24",
     "body": "Habitación doble en planta primera, en esa planta todas las habitaciones disponen de terraza.",
     "price": "80",
-    "dispo": bool,
+    "dispo": true,
     "images": "https://www.primavera-hostel.com/wp-content/uploads/2020/07/MG_5021.jpg"
   }
 ]
