@@ -1,26 +1,21 @@
-[
-  {
-    "userId": 1,
-    "id": 1,
-    "title": " DATA :)",
-    "body": "Este es el contenido del primer post. Aquí puedes escribir cualquier cosa que desees."
-  },
-  {
-    "userId": 1,
-    "id": 2,
-    "title": "Segundo post",
-    "body": "Este es el contenido del segundo post. Más información interesante aquí."
-  },
-  {
-    "userId": 1,
-    "id": 3,
-    "title": "Tercer post",
-    "body": "Contenido del tercer post. Añade detalles y descripciones aquí."
-  },
-  {
-    "userId": 1,
-    "id": 4,
-    "title": "Cuarto post",
-    "body": "Este es el contenido del cuarto post. Puedes incluir cualquier texto que necesites."
-  }
-]
+{
+    "nombre": "Hostal Ejemplo",
+    "habitaciones": [
+        {
+            "nombre": "Habitacion 1 Doble",
+            "precio": 80,
+            "descripcion": "Habitacion Doble en planta primera sin terraza",
+            "terraza": false,
+            "fotoURL": "",
+            "disponibilidad": true
+        },
+        {
+            "nombre": "Habitacion 21 Doble",
+            "precio": 100,
+            "descripcion": "Habitacion Doble en planta baja con terraza",
+            "terraza": true,
+            "fotoURL": "",
+            "disponibilidad": true
+        }
+    ]
+}
