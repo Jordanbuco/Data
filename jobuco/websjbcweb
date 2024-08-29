@@ -1,218 +1,27 @@
 [
-  {
-    "userId": 1,
-    "id": 1,
-    "title": "JBCWEB",
-    "body": "Habitación doble en planta primera, sin terraza.",
-    "price": 75.00,
-    "dispo": true,
-    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
-  },
-  {
-    "userId": 1,
-    "id": 2,
-    "title": "Habitación 2",
-    "body": "Habitación doble en planta primera, sin terraza.",
-    "price": 75.00,
-    "dispo": true,
-    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
-  },
-  {
-    "userId": 1,
-    "id": 3,
-    "title": "Habitación 3",
-    "body": "Habitación doble en planta primera, sin terraza.",
-    "price": 75.00,
-    "dispo": true,
-    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
-  },
-  {
-    "userId": 1,
-    "id": 4,
-    "title": "Habitación 4",
-    "body": "Habitación doble en planta primera, sin terraza.",
-    "price": 75.00,
-    "dispo": true,
-    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
-  },
-  {
-    "userId": 1,
-    "id": 5,
-    "title": "Habitación 5",
-    "body": "Habitación doble en planta primera, sin terraza.",
-    "price": 75.00,
-    "dispo": true,
-    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
-  },
-  {
-    "userId": 1,
-    "id": 6,
-    "title": "Habitación 6",
-    "body": "Habitación doble en planta primera, sin terraza.",
-    "price": 75.00,
-    "dispo": true,
-    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
-  },
-  {
-    "userId": 1,
-    "id": 7,
-    "title": "Habitación 7",
-    "body": "Habitación doble en planta primera, sin terraza.",
-    "price": 75.00,
-    "dispo": true,
-    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
-  },
-  {
-    "userId": 1,
-    "id": 8,
-    "title": "Habitación 8",
-    "body": "Habitación triple en planta primera, sin terraza.",
-    "price": 75.00,
-    "dispo": true,
-    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
-  },
-  {
-    "userId": 1,
-    "id": 9,
-    "title": "Habitación 9",
-    "body": "Habitación triple en planta primera, sin terraza.",
-    "price": 75.00,
-    "dispo": true,
-    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
-  },
-  {
-    "userId": 1,
-    "id": 10,
-    "title": "Habitación 10",
-    "body": "Habitación triple en planta primera, sin terraza.",
-    "price": 75.00,
-    "dispo": true,
-    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
-  },
-  {
-    "userId": 1,
-    "id": 11,
-    "title": "Habitación 11",
-    "body": "Habitación doble en planta baja, con terraza.",
-    "price": 75.00,
-    "dispo": true,
-    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
-  },
-  {
-    "userId": 1,
-    "id": 12,
-    "title": "Habitación 12",
-    "body": "Habitación doble en planta baja, con terraza.",
-    "price": 75.00,
-    "dispo": true,
-    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
-  },
-  {
-    "userId": 1,
-    "id": 13,
-    "title": "Habitación 13",
-    "body": "Habitación doble en planta baja, con terraza.",
-    "price": 75.00,
-    "dispo": true,
-    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
-  },
-  {
-    "userId": 1,
-    "id": 14,
-    "title": "Habitación 14",
-    "body": "Habitación doble en planta baja, con terraza.",
-    "price": 75.00,
-    "dispo": true,
-    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
-  },
-  {
-    "userId": 1,
-    "id": 15,
-    "title": "Habitación 15",
-    "body": "Habitación doble en planta baja, con terraza.",
-    "price": 75.00,
-    "dispo": true,
-    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
-  },
-  {
-    "userId": 1,
-    "id": 16,
-    "title": "Habitación 16",
-    "body": "Habitación doble en planta baja, con terraza.",
-    "price": 75.00,
-    "dispo": true,
-    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
-  },
-  {
-    "userId": 1,
-    "id": 17,
-    "title": "Habitación 17",
-    "body": "Habitación doble en planta baja, con terraza.",
-    "price": 75.00,
-    "dispo": true,
-    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
-  },
-  {
-    "userId": 1,
-    "id": 18,
-    "title": "Habitación 18",
-    "body": "Habitación doble en planta baja, con terraza.",
-    "price": 75.00,
-    "dispo": true,
-    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
-  },
-  {
-    "userId": 1,
-    "id": 19,
-    "title": "Habitación 19",
-    "body": "Habitación doble en planta baja, con terraza.",
-    "price": 75.00,
-    "dispo": true,
-    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
-  },
-  {
-    "userId": 1,
-    "id": 20,
-    "title": "Habitación 20",
-    "body": "Habitación doble en planta baja, con terraza.",
-    "price": 75.00,
-    "dispo": true,
-    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
-  },
-  {
-    "userId": 1,
-    "id": 21,
-    "title": "Habitación 21",
-    "body": "Habitación doble en planta baja, con terraza.",
-    "price": 75.00,
-    "dispo": true,
-    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
-  },
-  {
-    "userId": 1,
-    "id": 22,
-    "title": "Habitación 22",
-    "body": "Habitación doble en planta baja, con terraza.",
-    "price": 75.00,
-    "dispo": true,
-    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
-  },
-  {
-    "userId": 1,
-    "id": 23,
-    "title": "Habitación 23",
-    "body": "Habitación doble en planta baja, con terraza.",
-    "price": 75.00,
-    "dispo": true,
-    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
-  },
-  {
-    "userId": 1,
-    "id": 24,
-    "title": "Habitación 24",
-    "body": "Habitación especial en planta baja, con terraza.",
-    "price": 75.00,
-    "dispo": true,
-    "images": "https://recursos.fnsbooking.com/alojamientos/6392/big/6392-dsci0034.jpg"
-  }
+    {
+        "id": 1,
+        "title": "Project Alpha",
+        "body": "Developed a mobile application for task management using Swift and SwiftUI. Implemented features such as user authentication, data synchronization, and push notifications."
+    },
+    {
+        "id": 2,
+        "title": "Project Beta",
+        "body": "Led the design and development of a web application for e-commerce using React and Node.js. Integrated payment gateways, order tracking, and real-time analytics."
+    },
+    {
+        "id": 3,
+        "title": "Project Gamma",
+        "body": "Collaborated with a team to create a machine learning model for predictive analytics in the healthcare sector. Used Python and TensorFlow to analyze large datasets and improve accuracy."
+    },
+    {
+        "id": 4,
+        "title": "Project Delta",
+        "body": "Worked on a blockchain-based system for secure and transparent voting. Developed smart contracts and tested the system under various scenarios to ensure security and reliability."
+    },
+    {
+        "id": 5,
+        "title": "Project Epsilon",
+        "body": "Engineered a cloud-based solution for scalable data storage and retrieval. Used AWS services like S3, Lambda, and DynamoDB to create an efficient and cost-effective system."
+    }
 ]
