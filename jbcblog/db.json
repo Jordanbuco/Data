@@ -1,7 +1,7 @@
 [
     {
         "titulo": "Conexión con JSON: Introducción",
-        "imagenhero": "https://raw.githubusercontent.com/Jordanbuco/Drive/main/jbcblog/conexion-json-hero.jpg",
+        "imagenhero": "https://raw.githubusercontent.com/Jordanbuco/Drive/main/jbcblog/imageheropost1.jpg",
         "subtitulo": "Primeros pasos para entender la conexión con archivos JSON",
         "cuerpo1": "Los archivos JSON (JavaScript Object Notation) se han convertido en una herramienta esencial para el intercambio de datos entre servidores y aplicaciones web. Este formato ligero y fácil de leer es utilizado para representar estructuras de datos simples y complejas.",
         "cuerpo2": "Entender cómo leer, escribir y modificar archivos JSON es crucial para desarrollar aplicaciones modernas que requieren comunicación en tiempo real. En este artículo, exploraremos los conceptos básicos y te guiaremos a través del proceso de conexión y manipulación de datos JSON.",
@@ -10,7 +10,7 @@
     },
     {
         "titulo": "Bienvenida al Aprendizaje: Tu Primer Paso",
-        "imagenhero": "https://raw.githubusercontent.com/Jordanbuco/Drive/main/jbcblog/bienvenida-aprendizaje-hero.jpg",
+        "imagenhero": "https://raw.githubusercontent.com/Jordanbuco/Drive/main/jbcblog/imageheropost1.jpg",
         "subtitulo": "Comienza tu viaje en el mundo del conocimiento digital",
         "cuerpo1": "Bienvenido a un espacio dedicado al aprendizaje continuo y al desarrollo de habilidades digitales. En un mundo que evoluciona rápidamente, la capacidad de aprender y adaptarse es más importante que nunca.",
         "cuerpo2": "En este artículo, te mostraremos cómo dar los primeros pasos en el mundo del aprendizaje digital. Ya sea que estés interesado en programación, diseño o cualquier otro campo, aquí encontrarás recursos y guías para comenzar tu viaje.",
