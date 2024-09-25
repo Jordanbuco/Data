@@ -1,25 +1,24 @@
 [
-{
-  "titulo": "La Belleza de la Naturaleza",
-  "subtitulo": "Explorando los paisajes más impresionantes del mundo",
-  "imagen1": "https://ejemplo.com/imagen1.jpg",
-  "imagen2": "https://ejemplo.com/imagen2.jpg",
-  "cuerpo1": "La naturaleza nos ofrece una variedad infinita de paisajes que nos dejan sin aliento. Desde majestuosas montañas hasta vastos océanos, cada rincón del planeta tiene algo único que ofrecer.",
-  "cuerpo2": "Uno de los lugares más impresionantes es el Parque Nacional de Yellowstone, conocido por sus géiseres y vida silvestre. Es un destino ideal para los amantes de la aventura y la fotografía.",
-  "cuerpo3": "Además, no podemos olvidar las selvas tropicales del Amazonas, que albergan una biodiversidad incomparable y son vitales para el equilibrio ecológico del planeta.",
-  "resaltado": "La conservación de estos lugares es crucial para preservar la biodiversidad y el equilibrio natural.",
-  "titulo_bajo": "Conclusión: La Importancia de Preservar la Naturaleza"
-},
-{
-  "titulo": "La Belleza de la Naturaleza2",
-  "subtitulo": "Explorando los paisajes más impresionantes del mundo2",
-  "imagen1": "https://ejemplo.com/imagen1.jpg",
-  "imagen2": "https://ejemplo.com/imagen2.jpg",
-  "cuerpo1": "La naturaleza nos ofrece una variedad infinita de paisajes que nos dejan sin aliento. Desde majestuosas montañas hasta vastos océanos, cada rincón del planeta tiene algo único que ofrecer.",
-  "cuerpo2": "Uno de los lugares más impresionantes es el Parque Nacional de Yellowstone, conocido por sus géiseres y vida silvestre. Es un destino ideal para los amantes de la aventura y la fotografía.",
-  "cuerpo3": "Además, no podemos olvidar las selvas tropicales del Amazonas, que albergan una biodiversidad incomparable y son vitales para el equilibrio ecológico del planeta.",
-  "resaltado": "La conservación de estos lugares es crucial para preservar la biodiversidad y el equilibrio natural.",
-  "titulo_bajo": "Conclusión: La Importancia de Preservar la Naturalezajhasjjajdsajd"
-},
+  {
+    "titulo": "La Belleza de la Naturaleza",
+    "subtitulo": "Explorando los paisajes más impresionantes del mundo",
+    "imagen1": "https://example.com/imagen1.jpg",
+    "imagen2": "https://example.com/imagen2.jpg",
+    "cuerpo1": "La naturaleza nos ofrece una variedad infinita de paisajes que nos dejan sin aliento. Desde majestuosas montañas hasta vastos océanos, cada rincón del planeta tiene algo único que ofrecer.",
+    "cuerpo2": "Uno de los lugares más impresionantes es el Parque Nacional de Yellowstone, conocido por sus géiseres y vida silvestre. Es un destino ideal para los amantes de la aventura y la fotografía.",
+    "cuerpo3": "Además, no podemos olvidar las selvas tropicales del Amazonas, que albergan una biodiversidad incomparable y son vitales para el equilibrio ecológico del planeta.",
+    "resaltado": "La conservación de estos lugares es crucial para preservar la biodiversidad y el equilibrio natural.",
+    "titulo_bajo": "Conclusión: La Importancia de Preservar la Naturaleza"
+  },
+  {
+    "titulo": "La Belleza de la Naturaleza2",
+    "subtitulo": "Explorando los paisajes más impresionantes del mundo2",
+    "imagen1": "https://example.com/imagen1.jpg",
+    "imagen2": "https://example.com/imagen2.jpg",
+    "cuerpo1": "La naturaleza nos ofrece una variedad infinita de paisajes que nos dejan sin aliento. Desde majestuosas montañas hasta vastos océanos, cada rincón del planeta tiene algo único que ofrecer.",
+    "cuerpo2": "Uno de los lugares más impresionantes es el Parque Nacional de Yellowstone, conocido por sus géiseres y vida silvestre. Es un destino ideal para los amantes de la aventura y la fotografía.",
+    "cuerpo3": "Además, no podemos olvidar las selvas tropicales del Amazonas, que albergan una biodiversidad incomparable y son vitales para el equilibrio ecológico del planeta.",
+    "resaltado": "La conservación de estos lugares es crucial para preservar la biodiversidad y el equilibrio natural.",
+    "titulo_bajo": "Conclusión: La Importancia de Preservar la Naturalezajhasjjajdsajd"
+  }
 ]
-
